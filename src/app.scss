@@ -1,0 +1,16 @@
+body {
+    background-color: pink;
+    
+    p {
+        color: red;
+    }
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url('../fonts/good_times_rg.ttf');
+}
+
+.card {
+    font-family: myFirstFont;
+}
